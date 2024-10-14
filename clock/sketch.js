@@ -17,10 +17,10 @@ function draw() {
   let isAM = hr < 12;
 
 
-  let rectWidth = width / 3; // 각각의 직사각형 너비
-  let hourRectX = 0; // 시 부분 시작 위치
-  let minuteRectX = rectWidth ; // 분 부분 시작 위치
-  let secondRectX = rectWidth * 2 ; // 초 부분 시작 위치
+  let rectWidth = width / 3; // 직사각형 너비
+  let hourRectX = 0; 
+  let minuteRectX = rectWidth ; 
+  let secondRectX = rectWidth * 2 ;
 
 
   let ampmColor = isAM ? color("rgb(255,248,234)") : color("rgb(232,232,255)");
