@@ -15,6 +15,7 @@ function setup() {
 function draw() {
   clear();
   drawBackgroundCircle();
+  noStroke();
 
   // Instructions
   textSize(17);
