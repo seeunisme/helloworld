@@ -1,6 +1,6 @@
 # 🎅 MerryCam 🎄
 
-With MerryCam, your webcam feed transforms into a holiday wonderland. Your **fingers become magic wands** that let you decorate your screen with festive vibes. 🎉  
+With MerryCam, your webcam feed transforms into a holiday wonderland. Your **fingers become magic wands** that let you decorate your screen with festive vibes. 🎉  <br>
 
 
 ## ✨ Concept
