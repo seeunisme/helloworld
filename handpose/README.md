@@ -21,5 +21,5 @@ With MerryCam, your webcam feed transforms into a holiday wonderland. Your **fin
 
 ## 🎄 Christmas Starts!
 
-Spread Christmas cheer with a flick of your fingers—Let it snow! Let it glow! 🎶
+Spread Christmas cheer with a flick of your fingers—Let it snow! Let it glow! 🎶  <br>
 ![ggggg (1)](https://github.com/user-attachments/assets/fe86cc6b-e2e1-4bce-b2eb-d805370c0eda)
