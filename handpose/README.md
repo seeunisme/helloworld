@@ -1,7 +1,8 @@
 # 🎅 MerryCam 🎄
 
-With MerryCam, your webcam feed transforms into a holiday wonderland. Your **fingers become magic wands** that let you decorate your screen with festive vibes. 🎉  <br>
+With MerryCam, your webcam feed transforms into a holiday wonderland. Your **fingers become magic wands** that let you decorate your screen with festive vibes. 🎉  
 
+<br>
 
 ## ✨ Concept
 
@@ -17,6 +18,7 @@ With MerryCam, your webcam feed transforms into a holiday wonderland. Your **fin
 2. **Draw a rectangle with your fingers** on the screen to create a “Christmas zone.”!  
 
 <br>
+
 ## 🎄 Christmas Starts!
 
 Spread Christmas cheer with a flick of your fingers—Let it snow! Let it glow! 🎶
