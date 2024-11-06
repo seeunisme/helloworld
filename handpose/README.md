@@ -4,6 +4,7 @@ With MerryCam, your webcam feed transforms into a holiday wonderland. Your **fin
 
 
 
+
 ## ✨ Concept
 
 **Experience the magic of Christmas—one fingertip at a time!**
@@ -13,10 +14,12 @@ With MerryCam, your webcam feed transforms into a holiday wonderland. Your **fin
 
 
 
+
 ## 🎅 How to Use
 
 1. **Turn on your webcam** and run the program.
 2. **Draw a rectangle with your fingers** on the screen to create a “Christmas zone.”!
+
 
 
 
